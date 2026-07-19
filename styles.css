@@ -1,1 +1,43 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La boda de Lidia & Sergio</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Great+Vibes&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="fondo"></div>
+
+<div class="capa"></div>
+
+<div class="contenido">
+
+    <h1>Lidia & Sergio</h1>
+
+    <h2>19 de septiembre de 2026</h2>
+
+    <p>
+        Gracias por acompañarnos en uno de los días más importantes de nuestra vida.
+    </p>
+
+    <p>
+        Nos haría muchísima ilusión que nos dejaras un mensaje de voz para recordarlo siempre.
+    </p>
+
+    <button id="grabar">
+        🎤 Grabar mensaje
+    </button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
